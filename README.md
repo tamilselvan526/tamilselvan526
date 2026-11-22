@@ -137,9 +137,11 @@
 
 ## 🤝 Connect With Me
 
-🌐 **Portfolio:** [tamilselvanpanjamoorthy.com](https://portfolio-three-umber-vrgwogrl83.vercel.app/)
+🌐 **Portfolio:** [Visit My Portfolio](https://portfolio-three-umber-vrgwogrl83.vercel.app/)
 
 💻 **GitHub:** [@tamilselvan526](https://github.com/tamilselvan526)
+
+💼 **LinkedIn:** [Tamilselvan P](https://www.linkedin.com/in/tamilselvan-panchamoorthy-55973b2a5/)
 
 ---
 
