@@ -82,13 +82,16 @@
 🔗 [View Repository](https://github.com/tamilselvan526/shopkart)
 
 ### 3. 🌫️ FogVision – Hybrid Quantum-Classical Image Dehazing
-**Technologies:** Python | EfficientNet-B0 | U-Net | VQC | ONNX | Next.js
+
+**Technologies:** Python | EfficientNet-B0 | U-Net | Variational Quantum Circuits | ONNX | Next.js
 
 - Developed a two-stage image dehazing pipeline.
-- Integrated a four-qubit Variational Quantum Circuit into a U-Net architecture.
+- Integrated a 4-qubit Variational Quantum Circuit into a U-Net architecture.
 - Implemented fog-density classification and image restoration.
 - Evaluated performance using PSNR, SSIM, Accuracy, Precision, Recall, and F1-score.
 - Built an inference pipeline using ONNX, REST APIs, and Next.js.
+
+🔗 [View FogVision Repository](https://github.com/tamilselvan526/QuantumDehazer)
 
 ### 4. 🚨 Fraud Detection
 **Technologies:** Machine Learning | Python | TypeScript
